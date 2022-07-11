@@ -1,4 +1,4 @@
-# CSHL-22-cross-orientation-interaction-V1
+# Modeling cross-orientation interactions in mouse V1
 LNLN model modified from [Barbera et al. 2022](https://www.sciencedirect.com/science/article/pii/S0896627321007856)
 
 People involved: Yizhan Miao
